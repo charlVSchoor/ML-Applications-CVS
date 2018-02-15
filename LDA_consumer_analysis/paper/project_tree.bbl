@@ -1,0 +1,511 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Andreoni%
+\ \BBA {} Miller%
+}{%
+Andreoni%
+\ \BBA {} Miller%
+}{%
+{\protect \APACyear {2002}}%
+}]{%
+andreoni2002giving}
+\APACinsertmetastar {%
+andreoni2002giving}%
+\begin{APACrefauthors}%
+Andreoni, J.%
+\BCBT {}\ \BBA {} Miller, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2002}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Giving according to GARP: An experimental test of the
+  consistency of preferences for altruism} {Giving according to garp: An
+  experimental test of the consistency of preferences for altruism}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Econometrica}{70}{2}{737--753}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Arun%
+, Suresh%
+, Madhavan%
+\BCBL {}\ \BBA {} Murthy%
+}{%
+Arun%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2010}}%
+}]{%
+arun2010finding}
+\APACinsertmetastar {%
+arun2010finding}%
+\begin{APACrefauthors}%
+Arun, R.%
+, Suresh, V.%
+, Madhavan, C\BPBI V.%
+\BCBL {}\ \BBA {} Murthy, M\BPBI N.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2010}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {On finding the natural number of topics with latent
+  dirichlet allocation: Some observations} {On finding the natural number of
+  topics with latent dirichlet allocation: Some observations}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Pacific-Asia Conference on Knowledge Discovery and Data
+  Mining} {Pacific-asia conference on knowledge discovery and data mining}\
+  (\BPGS\ 391--402).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Batra%
+\ \BBA {} Ahtola%
+}{%
+Batra%
+\ \BBA {} Ahtola%
+}{%
+{\protect \APACyear {1991}}%
+}]{%
+batra1991measuring}
+\APACinsertmetastar {%
+batra1991measuring}%
+\begin{APACrefauthors}%
+Batra, R.%
+\BCBT {}\ \BBA {} Ahtola, O\BPBI T.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1991}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Measuring the hedonic and utilitarian sources of
+  consumer attitudes} {Measuring the hedonic and utilitarian sources of
+  consumer attitudes}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Marketing letters}{2}{2}{159--170}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Christidis%
+, Apostolou%
+\BCBL {}\ \BBA {} Mentzas%
+}{%
+Christidis%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2010}}%
+}]{%
+christidis2010exploring}
+\APACinsertmetastar {%
+christidis2010exploring}%
+\begin{APACrefauthors}%
+Christidis, K.%
+, Apostolou, D.%
+\BCBL {}\ \BBA {} Mentzas, G.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2010}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Exploring customer preferences with probabilistic topic
+  models} {Exploring customer preferences with probabilistic topic
+  models}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {European Conference on Machine Learning and Principles
+  and Practice of Knowledge Discovery in Databases.} {European conference on
+  machine learning and principles and practice of knowledge discovery in
+  databases.}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+contributors%
+}{%
+contributors%
+}{%
+{\protect \APACyear {2018}}%
+}]{%
+wiki}
+\APACinsertmetastar {%
+wiki}%
+\begin{APACrefauthors}%
+contributors, W.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2018}{}{}.
+\newblock
+\APACrefbtitle {White Bread.} {White bread.}
+\newblock
+\APACaddressPublisher{}{Wikimedia Foundation}.
+\newblock
+\begin{APACrefURL} \url{https://en.wikipedia.org/wiki/White_bread}
+  \end{APACrefURL}
+\newblock
+\APACrefnote{[Online; accessed 9-February-2018]}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Crowley%
+, Spangenberg%
+\BCBL {}\ \BBA {} Hughes%
+}{%
+Crowley%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {1992}}%
+}]{%
+crowley1992measuring}
+\APACinsertmetastar {%
+crowley1992measuring}%
+\begin{APACrefauthors}%
+Crowley, A\BPBI E.%
+, Spangenberg, E\BPBI R.%
+\BCBL {}\ \BBA {} Hughes, K\BPBI R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1992}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Measuring the hedonic and utilitarian dimensions of
+  attitudes toward product categories} {Measuring the hedonic and utilitarian
+  dimensions of attitudes toward product categories}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Marketing letters}{3}{3}{239--249}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Griffiths%
+\ \BBA {} Steyvers%
+}{%
+Griffiths%
+\ \BBA {} Steyvers%
+}{%
+{\protect \APACyear {2004}}%
+}]{%
+griffiths2004finding}
+\APACinsertmetastar {%
+griffiths2004finding}%
+\begin{APACrefauthors}%
+Griffiths, T\BPBI L.%
+\BCBT {}\ \BBA {} Steyvers, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2004}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Finding scientific topics} {Finding scientific
+  topics}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Proceedings of the National academy of
+  Sciences}{101}{suppl 1}{5228--5235}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Gr\"un%
+\ \BBA {} Hornik%
+}{%
+Gr\"un%
+\ \BBA {} Hornik%
+}{%
+{\protect \APACyear {2011}}%
+}]{%
+lda}
+\APACinsertmetastar {%
+lda}%
+\begin{APACrefauthors}%
+Gr\"un, B.%
+\BCBT {}\ \BBA {} Hornik, K.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2011}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{topicmodels}: An {R} Package for Fitting Topic Models}
+  {{topicmodels}: An {R} package for fitting topic models}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Statistical Software}{40}{13}{1--30}.
+\newblock
+\begin{APACrefDOI} \doi{10.18637/jss.v040.i13} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Hirschman%
+\ \BBA {} Holbrook%
+}{%
+Hirschman%
+\ \BBA {} Holbrook%
+}{%
+{\protect \APACyear {1982}}%
+}]{%
+hirschman1982hedonic}
+\APACinsertmetastar {%
+hirschman1982hedonic}%
+\begin{APACrefauthors}%
+Hirschman, E\BPBI C.%
+\BCBT {}\ \BBA {} Holbrook, M\BPBI B.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1982}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Hedonic consumption: emerging concepts, methods and
+  propositions} {Hedonic consumption: emerging concepts, methods and
+  propositions}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{The Journal of Marketing}{}{}{92--101}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Jacobs%
+, Donkers%
+\BCBL {}\ \BBA {} Fok%
+}{%
+Jacobs%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2016}}%
+}]{%
+jacobs2016model}
+\APACinsertmetastar {%
+jacobs2016model}%
+\begin{APACrefauthors}%
+Jacobs, B\BPBI J.%
+, Donkers, B.%
+\BCBL {}\ \BBA {} Fok, D.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Model-based purchase predictions for large assortments}
+  {Model-based purchase predictions for large assortments}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Marketing Science}{35}{3}{389--404}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Ma%
+, Zhang%
+, Yan%
+\BCBL {}\ \BBA {} Kim%
+}{%
+Ma%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2013}}%
+}]{%
+ma2013lda}
+\APACinsertmetastar {%
+ma2013lda}%
+\begin{APACrefauthors}%
+Ma, B.%
+, Zhang, D.%
+, Yan, Z.%
+\BCBL {}\ \BBA {} Kim, T.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2013}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {An LDA and synonym lexicon based approach to product
+  feature extraction from online consumer product reviews} {An lda and synonym
+  lexicon based approach to product feature extraction from online consumer
+  product reviews}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Electronic Commerce Research}{14}{4}{304}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Melville%
+, Sindhwani%
+\BCBL {}\ \BBA {} Lawrence%
+}{%
+Melville%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2009}}%
+}]{%
+melville2009social}
+\APACinsertmetastar {%
+melville2009social}%
+\begin{APACrefauthors}%
+Melville, P.%
+, Sindhwani, V.%
+\BCBL {}\ \BBA {} Lawrence, R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2009}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Social media analytics: Channeling the power of the
+  blogosphere for marketing insight} {Social media analytics: Channeling the
+  power of the blogosphere for marketing insight}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Proc. of the WIN}{1}{1}{1--5}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Okada%
+}{%
+Okada%
+}{%
+{\protect \APACyear {2005}}%
+}]{%
+okada2005justification}
+\APACinsertmetastar {%
+okada2005justification}%
+\begin{APACrefauthors}%
+Okada, E\BPBI M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2005}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Justification effects on consumer choice of hedonic and
+  utilitarian goods} {Justification effects on consumer choice of hedonic and
+  utilitarian goods}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of marketing research}{42}{1}{43--53}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Sherry%
+}{%
+Sherry%
+}{%
+{\protect \APACyear {1983}}%
+}]{%
+Sherry}
+\APACinsertmetastar {%
+Sherry}%
+\begin{APACrefauthors}%
+Sherry, J\BPBI F., Jr.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1983}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Gift Giving in Anthropological Perspective} {Gift giving
+  in anthropological perspective}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Consumer Research}{10}{2}{157-168}.
+\newblock
+\begin{APACrefURL} \url{+ http://dx.doi.org/10.1086/208956} \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1086/208956} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Shmueli%
+}{%
+Shmueli%
+}{%
+{\protect \APACyear {2010}}%
+}]{%
+shmueli2010explain}
+\APACinsertmetastar {%
+shmueli2010explain}%
+\begin{APACrefauthors}%
+Shmueli, G.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2010}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {To explain or to predict?} {To explain or to
+  predict?}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Statistical science}{}{}{289--310}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Spangenberg%
+, Voss%
+\BCBL {}\ \BBA {} Crowley%
+}{%
+Spangenberg%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {1997}}%
+}]{%
+spangenberg1997measuring}
+\APACinsertmetastar {%
+spangenberg1997measuring}%
+\begin{APACrefauthors}%
+Spangenberg, E\BPBI R.%
+, Voss, K\BPBI E.%
+\BCBL {}\ \BBA {} Crowley, A\BPBI E.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1997}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Measuring the hedonic and utilitarian dimensions of
+  attitude: A generally applicable scale} {Measuring the hedonic and
+  utilitarian dimensions of attitude: A generally applicable scale}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{ACR North American Advances}{}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Srivastava%
+, Hinton%
+, Krizhevsky%
+, Sutskever%
+\BCBL {}\ \BBA {} Salakhutdinov%
+}{%
+Srivastava%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2014}}%
+}]{%
+srivastava2014dropout}
+\APACinsertmetastar {%
+srivastava2014dropout}%
+\begin{APACrefauthors}%
+Srivastava, N.%
+, Hinton, G.%
+, Krizhevsky, A.%
+, Sutskever, I.%
+\BCBL {}\ \BBA {} Salakhutdinov, R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2014}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Dropout: A simple way to prevent neural networks from
+  overfitting} {Dropout: A simple way to prevent neural networks from
+  overfitting}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{The Journal of Machine Learning
+  Research}{15}{1}{1929--1958}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+(Stroie)%
+}{%
+(Stroie)%
+}{%
+{\protect \APACyear {2014}}%
+}]{%
+BADEASTROIE2014238}
+\APACinsertmetastar {%
+BADEASTROIE2014238}%
+\begin{APACrefauthors}%
+(Stroie), L\BPBI M\BPBI B.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2014}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Predicting Consumer Behavior with Artificial Neural
+  Networks} {Predicting consumer behavior with artificial neural
+  networks}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Procedia Economics and Finance}{15}{}{238 - 246}.
+\newblock
+\begin{APACrefURL}
+  \url{http://www.sciencedirect.com/science/article/pii/S2212567114004924}
+  \end{APACrefURL}
+\newblock
+\APACrefnote{Emerging Markets Queries in Finance and Business (EMQ 2013)}
+\newblock
+\begin{APACrefDOI} \doi{https://doi.org/10.1016/S2212-5671(14)00492-4}
+  \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}

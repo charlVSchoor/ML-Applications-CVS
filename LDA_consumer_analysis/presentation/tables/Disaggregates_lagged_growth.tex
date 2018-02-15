@@ -1,0 +1,43 @@
+\begin{table}[htbp]\centering
+\def\sym#1{\ifmmode^{#1}\else\(^{#1}\)\fi}
+\caption{Disaggreggate margins with fixed effects, including lags}\scalebox{0.5}{
+\begin{tabular}{l*{5}{c}}
+\hline\hline
+                &\multicolumn{1}{c}{com}&\multicolumn{1}{c}{Nat}&\multicolumn{1}{c}{Low}&\multicolumn{1}{c}{Med}&\multicolumn{1}{c}{High}\\
+\hline
+EXexp           &    0.022\sym{***}&    0.006         &    0.008         &   -0.001         &    0.002         \\
+                &  (0.007)         &  (0.005)         &  (0.005)         &  (0.003)         &  (0.004)         \\
+[1em]
+IMexp           &    0.008\sym{*}  &    0.006\sym{**} &   -0.001         &    0.004         &    0.002         \\
+                &  (0.004)         &  (0.003)         &  (0.003)         &  (0.004)         &  (0.002)         \\
+[1em]
+EXimp           &    0.001         &    0.022\sym{***}&    0.018         &    0.021         &   -0.023         \\
+                &  (0.004)         &  (0.008)         &  (0.014)         &  (0.028)         &  (0.022)         \\
+[1em]
+IMimp           &    0.002         &    0.011         &    0.023\sym{**} &    0.015\sym{**} &    0.016\sym{***}\\
+                &  (0.004)         &  (0.008)         &  (0.009)         &  (0.007)         &  (0.005)         \\
+[1em]
+EXexp lag       &    0.014\sym{***}&   -0.000         &    0.008\sym{**} &   -0.001         &    0.001         \\
+                &  (0.005)         &  (0.004)         &  (0.004)         &  (0.003)         &  (0.004)         \\
+[1em]
+EXimp lag       &   -0.004         &    0.021         &    0.006         &    0.044\sym{**} &    0.027         \\
+                &  (0.004)         &  (0.013)         &  (0.018)         &  (0.021)         &  (0.017)         \\
+[1em]
+IMimp lag       &   -0.006\sym{**} &   -0.000         &    0.012         &    0.010         &   -0.001         \\
+                &  (0.003)         &  (0.006)         &  (0.009)         &  (0.007)         &  (0.005)         \\
+[1em]
+Polity4         &    0.007\sym{*}  &    0.005         &    0.006         &    0.006\sym{*}  &    0.006\sym{*}  \\
+                &  (0.004)         &  (0.004)         &  (0.004)         &  (0.003)         &  (0.004)         \\
+[1em]
+Gross.enr.ratio &    0.055\sym{*}  &    0.048         &    0.042         &    0.040         &    0.056\sym{**} \\
+                &  (0.029)         &  (0.029)         &  (0.033)         &  (0.029)         &  (0.026)         \\
+\hline
+Country FE      &\multicolumn{1}{c}{Yes}         &\multicolumn{1}{c}{Yes}         &\multicolumn{1}{c}{Yes}         &\multicolumn{1}{c}{Yes}         &\multicolumn{1}{c}{Yes}         \\
+Year FE         &\multicolumn{1}{c}{Yes}         &\multicolumn{1}{c}{Yes}         &\multicolumn{1}{c}{Yes}         &\multicolumn{1}{c}{Yes}         &\multicolumn{1}{c}{Yes}         \\
+Adjusted R2     &\multicolumn{1}{c}{0.110}         &\multicolumn{1}{c}{0.096}         &\multicolumn{1}{c}{0.105}         &\multicolumn{1}{c}{0.098}         &\multicolumn{1}{c}{0.101}         \\
+Obs             &\multicolumn{1}{c}{1040.000}         &\multicolumn{1}{c}{1037.000}         &\multicolumn{1}{c}{1040.000}         &\multicolumn{1}{c}{1039.000}         &\multicolumn{1}{c}{1027.000}         \\
+\hline\hline
+\multicolumn{6}{l}{\footnotesize Standard errors in parentheses}\\
+\multicolumn{6}{l}{\footnotesize \sym{*} \(p<.10\), \sym{**} \(p<.05\), \sym{***} \(p<.01\)}\\
+\end{tabular}}
+\end{table}

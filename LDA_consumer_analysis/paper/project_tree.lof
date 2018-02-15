@@ -1,0 +1,20 @@
+\contentsline {figure}{\numberline {1}{\ignorespaces LDA Input-Output Layout\relax }}{11}{figure.caption.4}
+\contentsline {figure}{\numberline {2}{\ignorespaces Topics to Final Dataset Layout\relax }}{12}{figure.caption.5}
+\contentsline {figure}{\numberline {3}{\ignorespaces Product-Topic Distribution\relax }}{14}{figure.caption.6}
+\contentsline {figure}{\numberline {4}{\ignorespaces Product-Topic Mixture\relax }}{14}{figure.caption.7}
+\contentsline {figure}{\numberline {5}{\ignorespaces Top 6 Words Over 30 Topics\relax }}{15}{figure.caption.8}
+\contentsline {figure}{\numberline {6}{\ignorespaces Top 20 Predictors for 100 Topics\relax }}{17}{figure.caption.9}
+\contentsline {figure}{\numberline {7}{\ignorespaces Confusion Matrix: Top 20 Predictors for 100 Topics\relax }}{18}{figure.caption.10}
+\contentsline {figure}{\numberline {8}{\ignorespaces Auxiliary Statistics: Top 20 Predictors for 100 Topics\relax }}{18}{figure.caption.11}
+\contentsline {figure}{\numberline {9}{\ignorespaces Test Accuracy\relax }}{19}{figure.caption.12}
+\contentsline {figure}{\numberline {10}{\ignorespaces Test Loss\relax }}{19}{figure.caption.13}
+\contentsline {figure}{\numberline {11}{\ignorespaces Validation Accuracy\relax }}{20}{figure.caption.14}
+\contentsline {figure}{\numberline {12}{\ignorespaces Validation Loss\relax }}{20}{figure.caption.15}
+\contentsline {figure}{\numberline {13}{\ignorespaces Top 10 Words Over 7 Topics\relax }}{24}{figure.caption.18}
+\contentsline {figure}{\numberline {14}{\ignorespaces Word-Count Per Product\relax }}{25}{figure.caption.19}
+\contentsline {figure}{\numberline {15}{\ignorespaces CPP Matrix Visualization\relax }}{26}{figure.caption.20}
+\contentsline {figure}{\numberline {16}{\ignorespaces Distribution of Household Age for Gift and Non-Gift\relax }}{27}{figure.caption.21}
+\contentsline {figure}{\numberline {17}{\ignorespaces Distribution of Household Sex for Gift and Non-Gift\relax }}{27}{figure.caption.22}
+\contentsline {figure}{\numberline {18}{\ignorespaces Distribution of Household Education for Gift and Non-Gift\relax }}{28}{figure.caption.23}
+\contentsline {figure}{\numberline {19}{\ignorespaces Distribution of Household Income Class for Gift and Non-Gift\relax }}{29}{figure.caption.24}
+\contentsline {figure}{\numberline {20}{\ignorespaces Distribution of State for Gift and Non-Gift\relax }}{30}{figure.caption.25}

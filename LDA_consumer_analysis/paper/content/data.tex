@@ -1,0 +1,52 @@
+\section{Data Structure} % (fold)
+\label{sub:data_structure}
+ 
+The following section describes the dataset used in this paper and is comprised of two components: The first subsection explains the dataset containing the product definitions which is augmented with wikipedia definitions and descriptions of the products. The second subsection describes the final dataset used for the explanatory and predictive components of this paper. 
+
+\
+
+However, it is important to first cover the source and dimensions of the full dataset used for the analysis. The sample dataset contains consumer expenditure survey data sourced for the US Department of Labor Statistics, and is known as the Consumer Expenditure Survey data (CES from hereon out). Effectively, the dataset is a cross sectional dataset consisting of a sample of US households' purchase expenditures\footnote{Each household in the sample was asked to keep a diary describing their product purchases for a duration of two weeks.}. Moreover, it contains demographic variables describing the households and a categorical variable indicating whether a consumer purchased a given product as a gift for a person outside of the household. The dataset used includes survey entries from 2013 up till 2016, in total yielding 57195 unique households and 548 unique products. 
+
+\subsection{Product Definitions} % (fold)
+\label{sub:product_definitions}
+
+Each product within the dataset comes with a description of the product. For instance, product 20110 is described as White bread. However, these descriptions are not suitable for a text mining technique such as LDA. The reason is that the descriptions are not suitable documents for the LDA, meaning that it cannot reasonably allocate a probability of each document belonging to topic. This is possibly the reason why text mining techniques are not used on purchase datasets, as the descriptions do not contain enough information to allocate documents to topics. Initial analyses suggested that the allocation of products to topics are random\footnote{Figure 1 in the appendix represents the allocation of the top words (given by their respective beta values) in each product document over 7 topics. The graph shows that the word allocation is random, which makes it difficult to infer whether a certain topic is capturing a certain grouping of products.}. In other words, the products are randomly mixed among the topics and the result is that one cannot clearly see a topic representing a specific set of goods. 
+
+\
+
+Therefore, either another dataset containing text of the products should be used, or the current dataset should be augmented with a dataset that contains more information on the products. The method of this paper is that of the latter; augmenting the dataset is the only way to go as there is not another dataset containing more information on the products used in this paper. The question thus becomes: Where can one obtain text information on all of these products? The solution was to manually crawl the website Wikipedia and augment each product description with a Wikipedia description of the product. This is done by searching the main words within the description on Wikipeida, and using the most relevant paragraphs as augmenters. In the above mentioned white bread example, one can search Wikipedia for the term "White Bread" and obtain the following description: "White bread typically refers to breads made from wheat flour from which the bran and the germ layers have been removed (and set aside) from the whole wheatberry as part of the flour grinding or milling process, producing a light-colored flour." \citep{wiki}. The result of augment each product with such a description, and even longer descriptions, is larger and more text rich documents to model into topics. Thus, each product has it's original description and the augmented descriptions (descriptions from hereon out) as a single description variable. 
+
+\
+% subsection product_definitions (end)
+
+
+
+
+
+
+
+
+
+\subsection{Final Dataset} % (fold)
+\label{sub:final_dataset}
+
+The final dataset contains a identification variable for each individual household, the predicted gift variable, variables constructed from the CES data representing the demographics of each household and the individual distribution of each household over the topics\footnote{Table 1 in the appendix summarizes the dataset described in this subsection.}. Firstly, each household is, for the purposes of this paper, considered as a consumer. Each consumer has a categorical variable describing whether a product is purchased as a gift. However, the purpose is to predict whether a household would buy a gift or not. Therefore, each consumer is assigned a binary value of 1 for whether the consumer purchased any product as a gift, and 0 if the consumer did not purchase any gifts. This results in the predicted variable GIFT. 
+
+\
+
+Moreover, the demographic variables used as control variables are as follows: AGE describes the mean age of the household and SEX describes whether the majority of a household was male, female or balanced. EDUCA represents the highest level of education attained by any member of the household. It is coded from 1 to 9 and acts as a proxy for the level of education within the household\footnote{A value of 1 represents no schooling and 9 represents a masters degree or higher.}. STATE is a categorical variable that reports the US state in which the household is surveyed, and can, to some extent, be viewed as a proxy for culture. INCLASS is a categorical variable representing the income class of the household\footnote{As before, the higher the category, the higher the level of income.}. The final dataset includes all of the above mentioned variables as well as the topics modeled by the LDA\footnote{Figures 3 to 5 show the distributions of the demographic variables stacked by whether the households purchased gifts or not. The graphs show that gift purchasing behaviour is relatively uniform over the demogrhapics of hte households.}. The following section describes how the topic variables are constructed. 
+
+\
+
+
+
+
+
+
+
+
+% subsection final_dataset (end)
+
+
+
+% subsection data (end)

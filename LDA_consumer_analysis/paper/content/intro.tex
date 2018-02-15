@@ -1,0 +1,53 @@
+\section{Introduction} % (fold)
+\label{sec:introduction}
+ 
+Measuring hedonic and utilitarian consumption patterns has proven to be a difficult undertaking in marketing literature. Researchers argue over the scale of how to define utilitarian and hedonic consumption \cite{batra1991measuring}. However, the advent of machine learning and big data have brought about a new dimension of viewing marketing questions, such as the measurement and prediction of hedonic versus utilitarian consumer behaviour. Therefore, the aim of this paper is to contribute to the literature that utilizes machine learning methods to measure different types of consumer behaviour. 
+
+\
+
+Marketing literature usually makes use of different sets of products and their associated attributes to define whether a product is of hedonic or utilitarian nature. Researchers then use these products and consumers' purchases of these products to assign a consumer as being either hedonic or utilitarian \citep{spangenberg1997measuring}. However, this method poses a few problems. Firstly, it is labour intensive, meaning that a researcher has to manually define each product. Secondly, although the assignment of a product is based on a set of literature, it is still subjective to the particular researcher. Thirdly, the definitions of the products are inconsistent when applied to different sets of products; a set of products can contain both hedoinc and utilitarian products. Therefore, generalizing a scale of hedonic and utilitarian products based on a certain set of products appears to be inefficient. 
+
+\
+
+The purpose of this paper is thus to assist in this field of marketing literature by utilizing machine learning algorithms to automate the assignment of products to product categories, specifically hedonic and utilitarian categories. Moreover, the objective of the paper is to predict whether a consumer is either of hedonic or utilitarian nature. This is however a difficult challenge due to the nature of the definition process. How does one know whether a product is either hedonic or utilitarian? How can one assign a measurement to a product category for each consumer to get a distribution of a consumers preference of hedonic and utilitarian products? This is the innovation, or practical contribution, of this paper. It utilizes a machine learning algorithm, specifically a topic modeling method, called Latent Dirichlet Allocation (LDA from hereon out) to assign products into different topics, based on the description of the particular products. 
+
+\
+
+The result of using this method is that each product has a probability of it belonging to a certain topic. In other words, the model gives a distribution of each product over the set of specified topics. However, this only answers one of the purposes of this paper. The second purpose is to model a consumer over these topics. To do this, one can multiply the amount of times a consumer purchases a product with the probability of the product being in each topic. This results in a unique distribution for each individual consumer over each topic, which in turn can be used to predict whether they are of hedonic or utilitarian nature.
+
+\
+
+Another feature of this paper is the combination of descriptive, explanatory and predictive statistics. The use of these different statistical methods is based on the intuition of \cite{shmueli2010explain} which argues that these methods can be used for the purposes of theory building. However, the author suggests that each method must be used in their respective manner. It is thus also the aim of this paper to act as a theoretical case study whereby all of these methods are used to explain a particular topic. This is the theoretical contribution of this paper; to describe consumer behavior by reducing the dimensions of product descriptions, by explaining which topics contribute the most to hedonic and utilitarian behaviour and to predict whether a consumer is of hedonic or utilitarian nature. This paper thus serves as a case study to distinguish between the use of statistics to explain and predict consumer behaviour. 
+
+\
+
+To accomplish the above mentioned secondary task, this paper makes use of both a diverse set of statistical methods. Firstly, the descriptive part of the paper can be considered as the dimensionality reduction section, or the LDA. Using LDA on product descriptions reduces the amount of information about products, and thus better describes the dataset. Secondly, this paper makes use of logistic regression functions to model the topics over a binary dependent variable. The result is a set of topics describing the binary outcome, which proxies for hedonic and utilitarian behaviour. The model also includes control variables measuring the demographics of consumers. Finally, the paper contains prediction results from a neural network and a random forest. The intuition is that there exists a non linear relationship between products purchased and hedonic behaviour. 
+
+\
+
+The ultimate goal of this paper is to serve as an example of how modern statistics can be used in combination with consumer data to model consumer behaviour. It aims to contribute to the practical implementation of machine learning methods in the field of marketing, and to serve as a case study for the theoretical argument of which type of statistic is useful for analyzing consumer behaviour. The remainder of this paper is structured as follows: The following section gives a brief overview of literature related to this paper, followed by the data section which describes the data used in this analysis. Thereafter section 4 defines the methods used in the analysis of this paper. Section 5 presents the results and section 6 concludes. 
+
+
+\
+
+ 
+
+
+
+
+
+
+
+
+
+
+% give the purpose 
+% Give the method used 
+% Give the theoretical contribution
+% Give the practical contribution 
+
+
+
+% section all_the_papers_ (end)
+
+% section introduction (end)

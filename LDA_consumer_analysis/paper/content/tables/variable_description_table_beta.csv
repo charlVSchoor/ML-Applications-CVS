@@ -1,0 +1,12 @@
+Full dataset,,,
+Variable Name,Variable Description,Example,Dimension
+NEWID,NEWID is the variable inditcating each individual houseld survey,1292531,44746*1
+UCC,UCC represents each products unique universal classification code,10120,548*1
+Description,Description describes each individual product,Savings acc.,
+N ,The amount of times a product was purchsed by a particular household,1,1195829*1
+Gift,Gifts represents whether a household purchased a gift (1) or not (0) for an individual outside of the household,"1,0",44746*1
+AGE,The average age of a household,67,44746*1
+EDUCA,The maximum level of education within a household,8,44746*1
+STATE,The state in which the survey was conducted,51,44746*1
+SEX,"Whether the household is male or female dominated, or balanced. ",M,44746*1
+INCLASS,The inclome class of the household,>75000,44746*1

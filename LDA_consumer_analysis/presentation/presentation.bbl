@@ -1,0 +1,106 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Babin%
+, Darden%
+\BCBL {}\ \BBA {} Griffin%
+}{%
+Babin%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {1994}}%
+}]{%
+babin}
+\APACinsertmetastar {%
+babin}%
+\begin{APACrefauthors}%
+Babin, B\BPBI J.%
+, Darden, W\BPBI R.%
+\BCBL {}\ \BBA {} Griffin, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1994}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Work and/or Fun: Measuring Hedonic and Utilitarian
+  Shopping Value} {Work and/or fun: Measuring hedonic and utilitarian shopping
+  value}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Consumer Research}{20}{4}{644-656}.
+\newblock
+\begin{APACrefURL} \url{+ http://dx.doi.org/10.1086/209376} \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Hirschman%
+\ \BBA {} Holbrook%
+}{%
+Hirschman%
+\ \BBA {} Holbrook%
+}{%
+{\protect \APACyear {1982}}%
+}]{%
+hirschman1982hedonic}
+\APACinsertmetastar {%
+hirschman1982hedonic}%
+\begin{APACrefauthors}%
+Hirschman, E\BPBI C.%
+\BCBT {}\ \BBA {} Holbrook, M\BPBI B.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1982}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Hedonic consumption: emerging concepts, methods and
+  propositions} {Hedonic consumption: emerging concepts, methods and
+  propositions}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{The Journal of Marketing}{}{}{92--101}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Shmueli%
+}{%
+Shmueli%
+}{%
+{\protect \APACyear {2010}}%
+}]{%
+shmueli2010explain}
+\APACinsertmetastar {%
+shmueli2010explain}%
+\begin{APACrefauthors}%
+Shmueli, G.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2010}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {To explain or to predict?} {To explain or to
+  predict?}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Statistical science}{}{}{289--310}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{U.S. Department of Labor: Bureau of Labor Statistics}%
+}{%
+{U.S. Department of Labor: Bureau of Labor Statistics}%
+}{%
+{\protect \APACyear {2018}}%
+}]{%
+bls}
+\APACinsertmetastar {%
+bls}%
+\begin{APACrefauthors}%
+{U.S. Department of Labor: Bureau of Labor Statistics}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2018}{}{}.
+\newblock
+\APACrefbtitle {Consumer Expenditure Surveys : Diary Interview Survey.}
+  {Consumer expenditure surveys : Diary interview survey.}
+\newblock
+\begin{APACrefURL} \url{https://www.bls.gov/cex/pumd_data.htm} \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}

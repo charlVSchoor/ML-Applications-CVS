@@ -1,0 +1,9 @@
+\beamer@endinputifotherversion {3.36pt}
+\select@language {english}
+\beamer@sectionintoc {1}{The Story}{2}{0}{1}
+\beamer@subsectionintoc {1}{1}{The story}{2}{0}{1}
+\beamer@sectionintoc {2}{Methodology}{4}{0}{2}
+\beamer@subsectionintoc {2}{1}{Methodology and Dataset}{4}{0}{2}
+\beamer@sectionintoc {3}{Results}{17}{0}{3}
+\beamer@subsectionintoc {3}{1}{Discussion}{27}{0}{3}
+\beamer@sectionintoc {4}{Discussion}{27}{0}{4}
