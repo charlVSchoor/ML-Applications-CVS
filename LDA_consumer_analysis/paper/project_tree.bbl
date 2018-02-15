@@ -60,6 +60,30 @@ Arun, R.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Badea%
+}{%
+Badea%
+}{%
+{\protect \APACyear {2014}}%
+}]{%
+badea2014predicting}
+\APACinsertmetastar {%
+badea2014predicting}%
+\begin{APACrefauthors}%
+Badea, L\BPBI M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2014}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Predicting Consumer Behavior with artificial neural
+  networks} {Predicting consumer behavior with artificial neural
+  networks}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Procedia Economics and Finance}{15}{}{238--246}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Batra%
 \ \BBA {} Ahtola%
 }{%
@@ -473,39 +497,6 @@ Srivastava, N.%
 \newblock
 \APACjournalVolNumPages{The Journal of Machine Learning
   Research}{15}{1}{1929--1958}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-(Stroie)%
-}{%
-(Stroie)%
-}{%
-{\protect \APACyear {2014}}%
-}]{%
-BADEASTROIE2014238}
-\APACinsertmetastar {%
-BADEASTROIE2014238}%
-\begin{APACrefauthors}%
-(Stroie), L\BPBI M\BPBI B.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2014}{}{}.
-\newblock
-{\BBOQ}\APACrefatitle {Predicting Consumer Behavior with Artificial Neural
-  Networks} {Predicting consumer behavior with artificial neural
-  networks}.{\BBCQ}
-\newblock
-\APACjournalVolNumPages{Procedia Economics and Finance}{15}{}{238 - 246}.
-\newblock
-\begin{APACrefURL}
-  \url{http://www.sciencedirect.com/science/article/pii/S2212567114004924}
-  \end{APACrefURL}
-\newblock
-\APACrefnote{Emerging Markets Queries in Finance and Business (EMQ 2013)}
-\newblock
-\begin{APACrefDOI} \doi{https://doi.org/10.1016/S2212-5671(14)00492-4}
-  \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \end{thebibliography}

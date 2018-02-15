@@ -2,13 +2,22 @@
 \label{sec:conclusion}
 
 
-Future work:
-find a different, preferably a sequential dataset to have RNN. Use the wiki situation but spend more time removing stop words
-specify a different predicted variable to detect whether consumer is utilitarian or hedonic 
-Try to use a different measurement to relate consumer purchases with topics 
-Use validation processes by having more computational power
-Test other models than just NN for prediction 
-more research into neural networks for optimal prediction, as the increases in prediction accuracy was not much
+
+Measuring hedonic behaviour is challenging, as it is dependent on unpredictable human behaviour. In this paper I looked at modeling this type of behaviour by means of text mining and a proxy variable for hedonic/utilitarian behaviour. However, this posed a different problem as there are  no proper descriptive consumer purchase datasets. The only option was to use Wikipedia definitions and descriptions to augment the original descriptions. The results show that the LDA model did manage to allocate the product descriptions into distinguishable topics, more so than the model without the augmented descriptions. By doing this, I removed the labour intesive task of manually relating topics without any human bias. Moreover, this method is applicable to any range of products, and is reproducible with other datasets and can, in part, be considered as a solution for the problems of marketing literature specified in this paper. 
+
+\
+
+Predicting and explaining hedonic behaviour required a full dataset with control variables as well as a distribution of the topics for each consumer. This is done my multiplying the average times a product was purchased by each household with the probability that that product belongs to each of the topics. After normalization, these topics were included into the final dataset. The logistic regression model reports intuitive results; households that value fixed investments in human and physical capital, or schooling and property, have a higher probability of purchasing gifts. This is in line with the theoretical background of this paper, as utilitarian consumer are conscious about the effect of their purchases, and plan for their purchases ahead of time. 
+
+\
+
+Moreover, the predictive capability of the neural network outstretches that of the logistic regression by around 10 percent, a significant improvement. The interaction between predictive and explanatory statistics was quite fruitful. As there is uncertainty as to which of topics to model, using predictive statistics allowed for a clearer interpretation of how many topics can be used. 
+
+\
+
+However, there are a few shortcomings of this paper that can be addressed in future work. Firstly, a different dataset might yield better results, preferably a sequential dataset that would allow for a recursive neural network that has product description; finding a different predicted proxy variable might also yield better results. Secondly, in augmenting the product descriptions, one must be willing to spend even more time removing stop words from the documents. Thereafter, one could use validation processes for the LDA model. However, these are compute intensive and thus require the proper hardware. Finally, the use of different prediction methods, such as random forests, can be explored along with a deeper understanding of the neural network modeling structure. 
+
+
 
 
 

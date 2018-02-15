@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.2.19)  15 FEB 2018 01:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.2.19)  15 FEB 2018 08:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -792,22 +792,22 @@ LaTeX Warning: Label `sub:neural_network' multiply defined.
 )
 \openout1 = `project_tree.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
 \AtBeginShipoutBox=\box32
-Package hyperref Info: Link coloring ON on input line 83.
+Package hyperref Info: Link coloring ON on input line 84.
  (/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
@@ -816,9 +816,9 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count131
 )
-LaTeX Info: Redefining \ref on input line 83.
-LaTeX Info: Redefining \pageref on input line 83.
-LaTeX Info: Redefining \nameref on input line 83.
+LaTeX Info: Redefining \ref on input line 84.
+LaTeX Info: Redefining \pageref on input line 84.
+LaTeX Info: Redefining \nameref on input line 84.
 
 (./project_tree.out) (./project_tree.out)
 \@outlinefile=\write3
@@ -898,15 +898,15 @@ File: english.apc 2013/07/21 v6.03 apacite language file
 LaTeX Info: Redefining \BPBI on input line 129.
 LaTeX Info: Redefining \BHBI on input line 130.
 )
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 88.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 89.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <8> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 88.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 89.
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <6> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 88.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 89.
 
 (./content/abstract.tex) [1
 
@@ -931,7 +931,7 @@ ect_tree.toc)
 ] (./content/intro.tex [4]) (./content/lit_review.tex
 [5] [6] [7]) (./content/data.tex [8] [9]) (./content/method.tex [10]
 </Users/charlvanschoor/Documents/Gottingen/ML/ML-Applications-CVS/LDA_consumer_
-analysis/paper/content/graphs/LDA.pdf, id=274, 538.01pt x 520.94624pt>
+analysis/paper/content/graphs/LDA.pdf, id=277, 538.01pt x 520.94624pt>
 File: /Users/charlvanschoor/Documents/Gottingen/ML/ML-Applications-CVS/LDA_cons
 umer_analysis/paper/content/graphs/LDA.pdf Graphic file (type pdf)
 
@@ -943,7 +943,7 @@ e 48.
 (pdftex.def)             Requested size: 452.9679pt x 438.60138pt.
 
 </Users/charlvanschoor/Documents/Gottingen/ML/ML-Applications-CVS/LDA_consumer_
-analysis/paper/content/graphs/norm.pdf, id=275, 573.14125pt x 82.3075pt>
+analysis/paper/content/graphs/norm.pdf, id=278, 573.14125pt x 82.3075pt>
 File: /Users/charlvanschoor/Documents/Gottingen/ML/ML-Applications-CVS/LDA_cons
 umer_analysis/paper/content/graphs/norm.pdf Graphic file (type pdf)
 
@@ -963,7 +963,7 @@ mer_analysis/paper/content/graphs/LDA.pdf, page is rotated 90 degrees>]
 mer_analysis/paper/content/graphs/norm.pdf>]) (./content/results.tex
 </Users/charlvanschoor/Documents/Gottingen/ML/ML-Applications-CVS/LDA_consumer_
 analysis/src/output/product-distribution-per-topic/product-distribution-per-30-
-topic.pdf, id=305, 505.89pt x 216.81pt>
+topic.pdf, id=308, 505.89pt x 216.81pt>
 File: /Users/charlvanschoor/Documents/Gottingen/ML/ML-Applications-CVS/LDA_cons
 umer_analysis/src/output/product-distribution-per-topic/product-distribution-pe
 r-30-topic.pdf Graphic file (type pdf)
@@ -982,7 +982,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 </Users/charlvanschoor/Documents/Gottingen/ML/ML-Applications-CVS/LDA_consumer_
 analysis/src/output/topic-distributions-per-product/30-topic-distribution-per-p
-roduct.pdf, id=306, 505.89pt x 505.89pt>
+roduct.pdf, id=309, 505.89pt x 505.89pt>
 File: /Users/charlvanschoor/Documents/Gottingen/ML/ML-Applications-CVS/LDA_cons
 umer_analysis/src/output/topic-distributions-per-product/30-topic-distribution-
 per-product.pdf Graphic file (type pdf)
@@ -1005,7 +1005,7 @@ ns-CVS/LDA_consumer_analysis/src/output/topic-distributions-per-product/30-topi
 c-distribution-per-product.pdf>]
 </Users/charlvanschoor/Documents/Gottingen/ML/ML-Applications-CVS/LDA_consumer_
 analysis/src/output/top-words-per-topic/top-6-words-in-each30-topics.pdf, id=33
-5, 505.89pt x 505.89pt>
+8, 505.89pt x 505.89pt>
 File: /Users/charlvanschoor/Documents/Gottingen/ML/ML-Applications-CVS/LDA_cons
 umer_analysis/src/output/top-words-per-topic/top-6-words-in-each30-topics.pdf G
 raphic file (type pdf)
@@ -1020,7 +1020,7 @@ each30-topics.pdf used on input line 35.
 [15 </Users/charlvanschoor/Documents/Gottingen/ML/ML-Applications-CVS/LDA_consu
 mer_analysis/src/output/top-words-per-topic/top-6-words-in-each30-topics.pdf>]
 </Users/charlvanschoor/Documents/Gottingen/ML/ML-Applications-CVS/LDA_consumer_
-analysis/src/output/GLM-significantPlots/sigPvalue_NUM_TOPICS100.pdf, id=348, 5
+analysis/src/output/GLM-significantPlots/sigPvalue_NUM_TOPICS100.pdf, id=351, 5
 05.89pt x 505.89pt>
 File: /Users/charlvanschoor/Documents/Gottingen/ML/ML-Applications-CVS/LDA_cons
 umer_analysis/src/output/GLM-significantPlots/sigPvalue_NUM_TOPICS100.pdf Graph
@@ -1038,7 +1038,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [16]
 </Users/charlvanschoor/Documents/Gottingen/ML/ML-Applications-CVS/LDA_consumer_
-analysis/src/output/confusion-matrices/conf-matrix_NUM_TOPICS100.pdf, id=357, 5
+analysis/src/output/confusion-matrices/conf-matrix_NUM_TOPICS100.pdf, id=360, 5
 05.89pt x 505.89pt>
 File: /Users/charlvanschoor/Documents/Gottingen/ML/ML-Applications-CVS/LDA_cons
 umer_analysis/src/output/confusion-matrices/conf-matrix_NUM_TOPICS100.pdf Graph
@@ -1056,7 +1056,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 </Users/charlvanschoor/Documents/Gottingen/ML/ML-Applications-CVS/LDA_consumer_
-analysis/src/output/confusion-metrics/conf-metrics-_NUM_TOPICS100.pdf, id=358, 
+analysis/src/output/confusion-metrics/conf-metrics-_NUM_TOPICS100.pdf, id=361, 
 505.89pt x 505.89pt>
 File: /Users/charlvanschoor/Documents/Gottingen/ML/ML-Applications-CVS/LDA_cons
 umer_analysis/src/output/confusion-metrics/conf-metrics-_NUM_TOPICS100.pdf Grap
@@ -1075,7 +1075,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 [17 </Users/charlvanschoor/Documents/Gottingen/ML/ML-Applications-CVS/LDA_consu
 mer_analysis/src/output/GLM-significantPlots/sigPvalue_NUM_TOPICS100.pdf>]
 </Users/charlvanschoor/Documents/Gottingen/ML/ML-Applications-CVS/LDA_consumer_
-analysis/src/runs/graphs/test_acc.pdf, id=371, 545.03625pt x 427.5975pt>
+analysis/src/runs/graphs/test_acc.pdf, id=374, 545.03625pt x 427.5975pt>
 File: /Users/charlvanschoor/Documents/Gottingen/ML/ML-Applications-CVS/LDA_cons
 umer_analysis/src/runs/graphs/test_acc.pdf Graphic file (type pdf)
 
@@ -1091,7 +1091,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 </Users/charlvanschoor/Documents/Gottingen/ML/ML-Applications-CVS/LDA_consumer_
-analysis/src/runs/graphs/test_loss.pdf, id=372, 545.03625pt x 427.5975pt>
+analysis/src/runs/graphs/test_loss.pdf, id=375, 545.03625pt x 427.5975pt>
 File: /Users/charlvanschoor/Documents/Gottingen/ML/ML-Applications-CVS/LDA_cons
 umer_analysis/src/runs/graphs/test_loss.pdf Graphic file (type pdf)
 
@@ -1107,7 +1107,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 </Users/charlvanschoor/Documents/Gottingen/ML/ML-Applications-CVS/LDA_consumer_
-analysis/src/runs/graphs/val_acc.pdf, id=373, 545.03625pt x 427.5975pt>
+analysis/src/runs/graphs/val_acc.pdf, id=376, 545.03625pt x 427.5975pt>
 File: /Users/charlvanschoor/Documents/Gottingen/ML/ML-Applications-CVS/LDA_cons
 umer_analysis/src/runs/graphs/val_acc.pdf Graphic file (type pdf)
 
@@ -1123,7 +1123,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 </Users/charlvanschoor/Documents/Gottingen/ML/ML-Applications-CVS/LDA_consumer_
-analysis/src/runs/graphs/val_loss.pdf, id=374, 545.03625pt x 427.5975pt>
+analysis/src/runs/graphs/val_loss.pdf, id=377, 545.03625pt x 427.5975pt>
 File: /Users/charlvanschoor/Documents/Gottingen/ML/ML-Applications-CVS/LDA_cons
 umer_analysis/src/runs/graphs/val_loss.pdf Graphic file (type pdf)
 
@@ -1149,18 +1149,20 @@ cations-CVS/LDA_consumer_analysis/src/runs/graphs/val_acc.pdf> </Users/charlvan
 schoor/Documents/Gottingen/ML/ML-Applications-CVS/LDA_consumer_analysis/src/run
 s/graphs/val_loss.pdf>]) (./project_tree.bbl [21
 
-]) [22] (./content/appendix.tex
+] [22]) [23]
+(./content/appendix.tex
 LaTeX Font Info:    Try loading font information for OML+cmr on input line 25.
+
 (/usr/local/texlive/2016/texmf-dist/tex/latex/base/omlcmr.fd
 File: omlcmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10.95> not available
 (Font)              Font shape `OML/cmm/m/it' tried instead on input line 25.
- [23
+ [24
 
 ]
 </Users/charlvanschoor/Documents/Gottingen/ML/ML-Applications-CVS/LDA_consumer_
-analysis/paper/content/graphs/topicsper30_before_wiki.pdf, id=439, 504.88625pt 
+analysis/paper/content/graphs/topicsper30_before_wiki.pdf, id=444, 504.88625pt 
 x 722.7pt>
 File: /Users/charlvanschoor/Documents/Gottingen/ML/ML-Applications-CVS/LDA_cons
 umer_analysis/paper/content/graphs/topicsper30_before_wiki.pdf Graphic file (ty
@@ -1174,7 +1176,7 @@ df used on input line 42.
 (pdftex.def)             Requested size: 452.9679pt x 648.39493pt.
 
 </Users/charlvanschoor/Documents/Gottingen/ML/ML-Applications-CVS/LDA_consumer_
-analysis/paper/content/graphs/word-count-per-product.pdf, id=440, 289.08pt x 14
+analysis/paper/content/graphs/word-count-per-product.pdf, id=445, 289.08pt x 14
 4.54pt>
 File: /Users/charlvanschoor/Documents/Gottingen/ML/ML-Applications-CVS/LDA_cons
 umer_analysis/paper/content/graphs/word-count-per-product.pdf Graphic file (typ
@@ -1193,7 +1195,7 @@ Overfull \hbox (45.29955pt too wide) in paragraph at lines 46--47
 
 
 </Users/charlvanschoor/Documents/Gottingen/ML/ML-Applications-CVS/LDA_consumer_
-analysis/src/output/CPP-distribution/CPP_distribution.png, id=441, 481.8pt x 48
+analysis/src/output/CPP-distribution/CPP_distribution.png, id=446, 481.8pt x 48
 1.8pt>
 File: /Users/charlvanschoor/Documents/Gottingen/ML/ML-Applications-CVS/LDA_cons
 umer_analysis/src/output/CPP-distribution/CPP_distribution.png Graphic file (ty
@@ -1212,7 +1214,7 @@ Overfull \hbox (45.29955pt too wide) in paragraph at lines 51--52
 
 
 </Users/charlvanschoor/Documents/Gottingen/ML/ML-Applications-CVS/LDA_consumer_
-analysis/src/output/CES-distributions/AGE.pdf, id=443, 505.89pt x 216.81pt>
+analysis/src/output/CES-distributions/AGE.pdf, id=448, 505.89pt x 216.81pt>
 File: /Users/charlvanschoor/Documents/Gottingen/ML/ML-Applications-CVS/LDA_cons
 umer_analysis/src/output/CES-distributions/AGE.pdf Graphic file (type pdf)
 
@@ -1229,7 +1231,7 @@ Overfull \hbox (45.29955pt too wide) in paragraph at lines 58--59
 
 
 </Users/charlvanschoor/Documents/Gottingen/ML/ML-Applications-CVS/LDA_consumer_
-analysis/src/output/CES-distributions/SEX.pdf, id=444, 505.89pt x 216.81pt>
+analysis/src/output/CES-distributions/SEX.pdf, id=449, 505.89pt x 216.81pt>
 File: /Users/charlvanschoor/Documents/Gottingen/ML/ML-Applications-CVS/LDA_cons
 umer_analysis/src/output/CES-distributions/SEX.pdf Graphic file (type pdf)
 
@@ -1246,7 +1248,7 @@ Overfull \hbox (45.29955pt too wide) in paragraph at lines 63--64
 
 
 </Users/charlvanschoor/Documents/Gottingen/ML/ML-Applications-CVS/LDA_consumer_
-analysis/src/output/CES-distributions/EDUCA.pdf, id=445, 289.08pt x 505.89pt>
+analysis/src/output/CES-distributions/EDUCA.pdf, id=450, 289.08pt x 505.89pt>
 File: /Users/charlvanschoor/Documents/Gottingen/ML/ML-Applications-CVS/LDA_cons
 umer_analysis/src/output/CES-distributions/EDUCA.pdf Graphic file (type pdf)
 
@@ -1258,7 +1260,7 @@ ations-CVS/LDA_consumer_analysis/src/output/CES-distributions/EDUCA.pdf used on
 (pdftex.def)             Requested size: 362.37569pt x 634.19038pt.
 
 </Users/charlvanschoor/Documents/Gottingen/ML/ML-Applications-CVS/LDA_consumer_
-analysis/src/output/CES-distributions/INCLASS.pdf, id=446, 289.08pt x 505.89pt>
+analysis/src/output/CES-distributions/INCLASS.pdf, id=451, 289.08pt x 505.89pt>
 File: /Users/charlvanschoor/Documents/Gottingen/ML/ML-Applications-CVS/LDA_cons
 umer_analysis/src/output/CES-distributions/INCLASS.pdf Graphic file (type pdf)
 
@@ -1270,7 +1272,7 @@ on input line 73.
 (pdftex.def)             Requested size: 362.37569pt x 634.19038pt.
 
 </Users/charlvanschoor/Documents/Gottingen/ML/ML-Applications-CVS/LDA_consumer_
-analysis/src/output/CES-distributions/STATE.pdf, id=447, 289.08pt x 505.89pt>
+analysis/src/output/CES-distributions/STATE.pdf, id=452, 289.08pt x 505.89pt>
 File: /Users/charlvanschoor/Documents/Gottingen/ML/ML-Applications-CVS/LDA_cons
 umer_analysis/src/output/CES-distributions/STATE.pdf Graphic file (type pdf)
 
@@ -1281,43 +1283,43 @@ ations-CVS/LDA_consumer_analysis/src/output/CES-distributions/STATE.pdf used on
  input line 80.
 (pdftex.def)             Requested size: 362.37569pt x 634.19038pt.
 )
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 120.
- [24
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 121.
+ [25
 
  </Users/charlvanschoor/Documents/Gottingen/ML/ML-Applications-CVS/LDA_consumer
-_analysis/paper/content/graphs/topicsper30_before_wiki.pdf>] [25 </Users/charlv
+_analysis/paper/content/graphs/topicsper30_before_wiki.pdf>] [26 </Users/charlv
 anschoor/Documents/Gottingen/ML/ML-Applications-CVS/LDA_consumer_analysis/paper
-/content/graphs/word-count-per-product.pdf>] [26 </Users/charlvanschoor/Documen
+/content/graphs/word-count-per-product.pdf>] [27 </Users/charlvanschoor/Documen
 ts/Gottingen/ML/ML-Applications-CVS/LDA_consumer_analysis/src/output/CPP-distri
-bution/CPP_distribution.png>] [27 </Users/charlvanschoor/Documents/Gottingen/ML
+bution/CPP_distribution.png>] [28 </Users/charlvanschoor/Documents/Gottingen/ML
 /ML-Applications-CVS/LDA_consumer_analysis/src/output/CES-distributions/AGE.pdf
 > </Users/charlvanschoor/Documents/Gottingen/ML/ML-Applications-CVS/LDA_consume
-r_analysis/src/output/CES-distributions/SEX.pdf>] [28 </Users/charlvanschoor/Do
+r_analysis/src/output/CES-distributions/SEX.pdf>] [29 </Users/charlvanschoor/Do
 cuments/Gottingen/ML/ML-Applications-CVS/LDA_consumer_analysis/src/output/CES-d
-istributions/EDUCA.pdf>] [29 </Users/charlvanschoor/Documents/Gottingen/ML/ML-A
+istributions/EDUCA.pdf>] [30 </Users/charlvanschoor/Documents/Gottingen/ML/ML-A
 pplications-CVS/LDA_consumer_analysis/src/output/CES-distributions/INCLASS.pdf>
-] [30 </Users/charlvanschoor/Documents/Gottingen/ML/ML-Applications-CVS/LDA_con
+] [31 </Users/charlvanschoor/Documents/Gottingen/ML/ML-Applications-CVS/LDA_con
 sumer_analysis/src/output/CES-distributions/STATE.pdf>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 120.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 121.
  (./project_tree.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 120.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 120.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 121.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 121.
 Package rerunfilecheck Info: File `project_tree.out' has not changed.
 (rerunfilecheck)             Checksum: 6F3D81040F50411CC22BB9F2A2F860B9;998.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 120.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 121.
  ) 
 Here is how much of TeX's memory you used:
- 10342 strings out of 493014
- 163893 string characters out of 6133351
- 260447 words of memory out of 5000000
- 13544 multiletter control sequences out of 15000+600000
- 13125 words of font info for 48 fonts, out of 8000000 for 9000
+ 10346 strings out of 493014
+ 163938 string characters out of 6133351
+ 261530 words of memory out of 5000000
+ 13546 multiletter control sequences out of 15000+600000
+ 13292 words of font info for 49 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 44i,14n,77p,1613b,490s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 44i,14n,77p,1691b,505s stack positions out of 5000i,500n,10000p,200000b,80000s
 pdfTeX warning (dest): name{Hfootnote.20} has been referenced but does not ex
 ist, replaced by a fixed one
 
@@ -1392,11 +1394,12 @@ ive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive
 016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/201
 6/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2016/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2016/t
-exmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on project_tree.pdf (30 pages, 569875 bytes).
+exmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2016/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
+Output written on project_tree.pdf (31 pages, 583991 bytes).
 PDF statistics:
- 589 PDF objects out of 1000 (max. 8388607)
- 498 compressed objects within 5 object streams
- 114 named destinations out of 1000 (max. 500000)
+ 600 PDF objects out of 1000 (max. 8388607)
+ 506 compressed objects within 6 object streams
+ 115 named destinations out of 1000 (max. 500000)
  245 words of extra memory for PDF output out of 10000 (max. 10000000)
 
